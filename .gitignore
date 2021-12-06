@@ -1,0 +1,12 @@
+# ignore dependencies
+node_modules/
+
+# ignore generated output
+lib/
+doc/
+
+# ignore runtime data
+log/
+
+# ignore files with sensitive data
+credentials.ini
